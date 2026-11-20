@@ -49,7 +49,7 @@ AI 영상이 잘하는 것(분위기, 클로즈업, 비현실 비주얼)에 서�
 
 **[확인] 기본 설정**
 - 좀비 아포칼립스 캠퍼스 BL. 사물함에 숨어 있던 까칠한 너드 윤시온이 좀비와 싸우는 스타 쿼터백 데미안 헤이즈를 목격.
-- 살아남으려면 붙어 있어야 하는데, 시온은 데미안을 피하고 싶다. 데미안이 둘이 함께 보낸 *그날 밤*을 기억하지 못하기 때문.
+- 살아남으려면 붙어 있어야 하는데, 시온은 데미안을 피하고 싶다. 데미안이 둘이 함께 보낸 *그날 밤*을 기억하지 못하기 때문. (※ 2차 조사로 수정: 정확히는 데미안이 파티 뒤 하룻밤 상대를 **찾고 있고**, 그게 시온인 줄 모른다. 5장 참고)
 - CLIFF 플랫폼 작품, 15+, 매월 2·12·22일 21시 공개. 사람이 쓴 각본·연출 + 생성형 AI 제작, 크레딧 김하랑·김규리.
 
 **서사 엔진**
@@ -213,9 +213,77 @@ AI 영상이 잘하는 것(분위기, 클로즈업, 비현실 비주얼)에 서�
 
 ---
 
+## 5. 2차 조사: 회차별 서사 + X·커뮤니티 반응
+
+> 유튜브·X·iQIYI·CLIFF 페이지는 이 작업 환경에서 직접 열리지 않아, 검색엔진에 노출된 영상 설명·게시물 요약을 모았다. 회차 설명 원문 전체가 아니라 **검색에 잡힌 부분**이다.
+
+### 5-1. 회차별로 새로 확인된 서사
+
+**Brake ONE** (제작 채널 DIRTY PLAY, "모든 캐릭터는 AI로 생성된 가상 인물" 명시)
+| 화 | 확인된 내용 |
+|---|---|
+| EP.01 "LOSER" | 그랑프리 2위 서원. 경기 직후 로먼이 은퇴 선언 → **분노한 서원이 로먼에게 주먹을 날림.** 관계가 예상 밖으로 흐르기 시작 |
+| EP.03 | 서원이 로먼을 서킷으로 다시 끌어냄. **"로먼이 그랑프리에 한 번 나설 때마다, 서원도 한 번 그에게 어울려줘야 하는 거래"** 시작. 오픈카 동승 장면 |
+| EP.04~05 | 영문 대사: *"Then how about a deal? There's just one thing I've never done on the track."* 한 시청자는 5화 전환점이 특히 강했다고 언급 |
+| 편성 | 총 12화. 유튜브 1~4화 무료, 5화부터 iQIYI 선공개(11/11) |
+
+→ **서사 업데이트:** 1화 "주먹"이 촉발 사건, 3화 "거래"가 2막 엔진이다. 라이벌물이 **계약물**로 전환된다. "왜 은퇴했나"보다 "거래가 어디까지 가나"가 중반을 끈다.
+
+**OUT OF LINE** (한국어 부제 **《종말이 체질인 놈》**, CLIFF Original)
+| 화 | 확인된 내용 |
+|---|---|
+| EP.01 "OUTBREAK" | 사물함에 숨은 시온이 **소화기로 좀비를 때려잡는** 데미안을 목격 |
+| EP.02 "SUDDEN DEATH" (11/12) | **데미안은 파티 뒤 하룻밤을 보낸 상대를 찾고 있고, 그 상대인 시온은 눈이 마주칠 때마다 도망친다** |
+| EP.03 | 11/22 21시 공개 예정 |
+
+→ **서사 업데이트 (중요):** 1차 분석의 "데미안이 그날 밤을 기억 못 한다"는 더 정확히는 **"그날 밤은 기억하는데 상대가 누군지 모른다"**다. 기억상실물이 아니라 **정체 숨기기(신데렐라형) 구조**다. 데미안은 찾고, 시온은 숨고, 좀비는 둘을 붙여놓는다. 정체가 들키는 순간이 시즌 최대 비트가 될 수밖에 없다. 회차 제목도 미식축구 용어(SUDDEN DEATH = 연장 서든데스)로 통일했다.
+
+**따먹지 말라 하신 열매** (NOUB, 채널 설명 "악마공 × 신부지망생수")
+| 화 | 확인된 내용 |
+|---|---|
+| EP.01 | X 소개 문구: "죽어가는 안경 쓴 신부님 × 붉은 머리, 적안의 악마". 7일 남은 조셉에게 이드가 영혼을 대가로 시간을 제안 |
+| EP.02 (9/21경) | **첫날밤 이후 조셉은 악마의 낙인을 옷깃 아래 숨기고 신학생의 일상으로 돌아간다.** 미사 중 불타는 낙인이 그를 시험. 청각장애 이복동생 노아가 입학식에 와 달라고 부탁 |
+| EP.03~ | 설명문 검색 불가 (제목·러닝타임만 확인) |
+| 참고 | 커뮤니티 글 일부는 "8일의 수명"으로 적어 7일/8일 표기가 엇갈림 |
+
+→ **서사 업데이트:** 2화 구조가 "죄 → 숨김 → 일상 속 노출 위기"다. 낙인을 *옷깃 아래* 숨긴다는 게 핵심 이미지. 성직자 칼라가 곧 은폐 도구가 된다.
+
+**표적 MARK** (LOBS 각본·연출·편집, 11/5(목) 19:15 공개 시작)
+| 화 | 확인된 내용 |
+|---|---|
+| EP.01 | 가문 빚을 갚기 위해 왕립 사격대회 출전 결심 |
+| EP.02 | 첫 정기시합 결선, 에밀 vs 마르셀 |
+| EP.03 | 벨포르 후작의 야회, 빚을 해결해주겠다는 제안 |
+| EP.04~ | 검색에 잡히지 않음 |
+
+### 5-2. X·커뮤니티 반응
+
+| 출처 | 반응 |
+|---|---|
+| X @samelovepic (9/11, **조회 73.8K**) | Brake ONE 1화 줄거리 소개 + "AI 드라마인데 잘 만들었고 재밌다"는 평 |
+| X @rainmakerth (태국 매체) | "AI '배우'가 늘어나며 한국 BL 'Brake ONE'이 SNS에서 논쟁을 일으켰다. 엔터 업계 미래에 대한 질문" → **해외 화제성이 '작품'과 'AI 배우 논쟁' 두 축으로 동시에 발생** |
+| X @Bam__BL2 (밤비엘) | 따먹지 말라 하신 열매 EP.01·02, OUT OF LINE을 회차마다 소개. BL 큐레이션 계정이 확산 허브 역할 |
+| 유튜브 댓글 (Brake ONE) | "로먼의 눈빛 때문에 봤다", "수위 없이 감정선 줄타기와 기류만으로 상상력을 자극", "겉은 차갑고 속은 순애인 조합" |
+| 유튜브 댓글 (OUT OF LINE) | "연출·BGM이 세련되고 깔끔해서 일반 하이틴 드라마 보는 느낌, AI 드라마 입문용으로 좋다" |
+| 유튜브 댓글 (따먹지 말라 하신 열매) | OST 기다렸다, 가사 좋다, "완전히 몰입했다, 순위권 갔으면", 해외 시청자 "so obsessed" |
+| 디시 AI드라마 갤 | 성당 배경 안에서 영상미·연출 최대치. 단 2화는 스토리보다 수위에 치중 |
+| 업계 시선 (데일리안 기사 제목) | "기술은 최첨단, 이야기는 클리셰… OTT로 간 AI 드라마" |
+| MyDramaList | "100% AI 생성 BL" 리스트가 별도로 생김. 사용자 평은 "hit or miss", AI 배우의 감정·케미 차이 논쟁 진행 중 |
+
+### 5-3. 2차 조사로 바뀐 결론
+
+1. **네 작품 중 세 작품이 '거래/계약'으로 2막을 연다.** Brake ONE(그랑프리 거래), 따먹지 말라 하신 열매(영혼 계약), 표적(후작의 빚 청산 제안). 거래는 관계를 *강제로* 지속시키면서 "조건이 바뀌는 순간"마다 회차 엔딩을 만든다. AI 숏폼 BL의 사실상 표준 2막 장치.
+2. **1화 엔딩은 '신체적 충돌'이다.** 주먹(Brake ONE), 소화기(OUT OF LINE), 첫날밤과 낙인(Demon). 대사보다 행동으로 관계를 각인시킨다.
+3. **팬 반응이 칭찬하는 건 '수위'가 아니라 '기류'다.** 시청자 평 중 가장 많이 보이는 키워드가 눈빛, 감정선 줄타기, 순애, 분위기. 반대로 비판은 "수위가 스토리를 앞섰다"는 쪽에 몰린다.
+4. **업계 비판은 "클리셰".** 그래서 탑티어가 되려면 클리셰 자체(라이벌, 하이틴, 악마, 집착)는 그대로 쓰되 **제목·회차명·장르 규칙으로 비틀기**(Brake/Break, SUDDEN DEATH, 선악과 이중의미)가 차별화 포인트가 된다.
+5. **해외 확산 경로:** BL 큐레이션 X 계정 → 유튜브 무료 회차 → OTT(iQIYI)/자체 플랫폼(CLIFF). 그리고 "AI 배우" 논쟁 자체가 바이럴 연료 역할을 했다.
+
+---
+
 ## 참고 자료
 - Brake ONE: [YouTube](https://www.youtube.com/watch?v=FouReIwxnkU), [스페셜 메이킹](https://www.youtube.com/watch?v=DSHaz1bllWc), [iQIYI 작품 페이지](https://www.iq.com/album/brake-one-2026-1lzqp1bsg8x?lang=en_us), [X 반응](https://x.com/samelovepic/status/2098405049965891659)
 - OUT OF LINE: [CLIFF 작품 페이지](https://watchcliff.com/en/work/out-of-line), [CLIFF STUDIO YouTube](https://www.youtube.com/@watchcliff.official), [EP 영상](https://www.youtube.com/watch?v=_1KXNg7q5OI), [Bilibili](https://www.bilibili.com/video/BV1vc4w6eEqo/), [X 밤비엘](https://x.com/Bam__BL2/status/2117249190086734241)
 - 따먹지 말라 하신 열매: [NOUB 채널](https://www.youtube.com/@noub_bl), [EP 영상](https://www.youtube.com/watch?v=AJu9cpxzRTM), [OST 플레이리스트](https://www.youtube.com/watch?v=V1wEuyd6DL4), [AI MOVIE CTRL](https://aimoviectrl.com/series/bound-to-the-demon/), [디시 AI드라마 갤러리](https://gall.dcinside.com/mini/board/view/?id=aidrama&no=9)
 - 표적 MARK: [예고편](https://www.youtube.com/watch?v=T2Mxuv6tZ5A), [EP.01](https://www.youtube.com/watch?v=SFhQK4qavjI), [EP.02](https://www.youtube.com/watch?v=OnkiPVk27_0), [EP.03](https://www.youtube.com/watch?v=Y8I2ih6C-uA)
 - 작품 목록: [scenedia AI BL 전체 작품](https://scenedia.com/all)
+- 2차 조사: [Brake ONE EP.03 유튜브](https://www.youtube.com/watch?v=fjUxyOkP6UY), [Brake ONE 클립](https://www.youtube.com/watch?v=Tsf3XDVkXYg), [iQIYI wiki](https://www.iq.com/wiki/en_us/album/brake-one-2026-1lzqp1bsg8x), [DIRTY PLAY 채널](https://www.youtube.com/@dirtyplay_bl/videos), [rainmaker X](https://x.com/rainmakerth/status/2095028958115078413), [rainmaker 기사](https://www.rainmaker.in.th/ai-artist-brake-one-korean-bl-entertainment/), [OUT OF LINE 종말이 체질인 놈](https://www.youtube.com/watch?v=shfAdvSyu6M), [OUT OF LINE 유튜브](https://www.youtube.com/watch?v=mf4fRnJKajM), [밤비엘 X - Demon EP.01](https://x.com/Bam__BL2/status/2097995805118668980), [밤비엘 X - Demon EP.02](https://x.com/Bam__BL2/status/2097996672282554468), [Demon 쇼츠](https://www.youtube.com/shorts/VSdO0-gwuZY), [NOUB 영상 목록](https://www.youtube.com/@noub_bl/videos), [표적 EP.01](https://www.youtube.com/watch?v=rgOXRJtpWG0), [데일리안 기사](https://www.dailian.co.kr/news/view/1712820/), [MyDramaList AI BL 리스트](https://mydramalist.com/list/1gn9ADG4)
