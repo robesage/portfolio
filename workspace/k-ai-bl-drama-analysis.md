@@ -280,6 +280,74 @@ AI 영상이 잘하는 것(분위기, 클로즈업, 비현실 비주얼)에 서�
 
 ---
 
+## 6. 3차 조사: 유튜브 댓글·X 원문 (2026-11-20)
+
+> 이번에는 유튜브와 X를 직접 열어 원문을 읽었다. 유튜브는 각 작품 1화의 인기 댓글 상위 25~40개, X는 작품별 "인기" 검색 결과 약 30개를 봤다. 원문 발췌는 `_raw/youtube_comments.md`, `_raw/x_posts.md`에 있다.
+
+### 6-1. 숫자로 본 현재 위치
+
+| 작품 | 유튜브 1화 | X 최고 반응 | 지금 상황 |
+|---|---|---|---|
+| Brake ONE | 조회 72만 · 댓글 1,541 · 좋아요 2.1만 (2개월) | 3,798♥ (비하인드 칭찬) | 4화부터 국내 OTT **헤븐리 단독**, 해외는 iQIYI. 유튜브 멤버십 전용 게시물도 운영 |
+| OUT OF LINE | 조회 **141만** · 댓글 782 (**2주**) | 4,162♥ "알찬 8분" | 가장 빠른 상승세. 유튜브는 일반판, CLIFF는 장면을 더한 **확장판 무료** |
+| 따먹지 말라 하신 열매 | 조회 44만 · 댓글 679 · 좋아요 1.3만 (2개월) | **4,570♥ (영어권 계정)** | 6화까지 공개. 같은 커플의 **오피스 AU 번외편** 「Bound to the Intern」 별도 공개 |
+| 표적 MARK | 재업로드본 조회 21만 · 댓글 306 (3주) | 1,818♥ "총 쏘는 법" | **원래 1화는 유튜브가 성적 콘텐츠로 삭제** → 편집해 재업로드. 노벨라에 확장판·할로윈 번외편 |
+
+### 6-2. 원문에서 새로 확인된 것
+
+**① 팬이 실제로 반응하는 단위는 "장면 하나, 대사 한 줄"이다.**
+- 타임스탬프 댓글이 인기 상위에 많다. "1:26 금발 웃통 까면서 포효하는 장면", "5:01 병아리라 듣고 짱나서 옷벗기", "7:51 덩치 차이", "7:50 RIFLE 대사".
+- 한 음절이 밈이 된다. 표적의 "응." 하나로 469♥. 아웃 오브 라인은 "핑크", 따먹열은 "난 지금 너한테만 보여".
+- → 회차마다 **캡처·클립으로 잘라 돌릴 수 있는 장면 2~3개**를 의도해서 심어야 한다. X 확산은 전부 이 단위로 일어난다.
+
+**② 2차 조사의 "수위보다 기류" 결론은 절반만 맞다.**
+- 유튜브 댓글은 기류·눈빛 칭찬이 주류다. X는 다르다. 인기 게시물 상당수가 키스신·스킨십·"섹텐"을 노골적으로 좋아한다.
+- 대신 X에서도 **최고 반응은 스킨십 자체가 아니라 '관계가 바뀌는 순간'**에 붙는다. "제발이란 소리 듣고 표정 진지하게 바뀌는 거 — 마음 자각한 거냐"(1,178♥), "손잡기에서 에밀이 손깍지로 바뀌는 감정 연출"(371♥), "키스신 있어서 좋은 게 아니라 로먼이 왜 서원한테 흥미를 느끼는지 알 수 있던 장면"(Laco).
+- → 정정: **수위는 미끼, 관계의 변화가 본체**. 스킨십 장면 안에 반드시 "권력·감정이 뒤집히는 한 박자"를 넣는다.
+
+**③ 유튜브 수위 리스크는 실제로 터졌다.**
+- 표적 1화 원본은 "과도한 노출 또는 성적인 콘텐츠" 정책 위반으로 삭제됐다. 댓글로는 "2번 경고면 2주 정지, 3번이면 채널 삭제", "어떤 장면이 문제인지 안 알려줌", "짧은 키스신이랑 접촉 정도인데".
+- Brake ONE 1화에도 "수위땜에 유튜브에서 잘리면 트위터에라도 올려달라"는 댓글이 1.6천 좋아요다.
+- 그래서 네 팀 모두 **유튜브 = 맛보기, 수위 높은 판은 다른 곳**으로 나눴다: Brake ONE은 헤븐리·iQIYI·멤버십, 아웃 오브 라인은 CLIFF 확장판, 표적은 노벨라 확장판·번외편, 따먹열은 디스코드·오피스 AU.
+- → 유통 설계를 처음부터 **유튜브 공개판 / 확장판 / 번외편** 3단으로 짜야 한다. 이게 수익 구조이기도 하다.
+
+**④ 얼굴 칭찬의 핵심은 "흔하지 않음 + 남자다움"이다.**
+- "다른 A.I.랑 안 겹치는 얼굴"(110), "겹쳐 보이는 현실 유명인이 없어서 몰입이 잘됨"(153), "공은 흔한 페이스 아니라 매력 터짐".
+- 수 얼굴 칭찬의 공통어: "남자다워서", "어깨 넓은 거 좋음", "연약해 보이지 않아서", "화장한 것 같은 느낌 없어서". 반대로 "하관이 너무 여우상인 수들 많아서 몰입이 힘들었다"는 불만이 반복된다.
+- → AI BL에서 흔한 실패는 **수를 너무 예쁘고 가늘게 뽑는 것**이다. 공·수 둘 다 남자 골격을 유지하고, 차이는 체격·분위기로 낸다.
+
+**⑤ 해외 반응은 "한국어 욕·억양"과 "영어 대사"에 걸린다.**
+- "Honestly, Korean curse words just hit different"(159), Brake ONE의 "sshibal 알아듣는 것도 포인트".
+- 서원의 영어는 "진짜 한국인이 영어 하는 거라 신기함"(1.4천), 표적은 "브리티시 액센트 개치인다".
+- X 단일 최고 좋아요(4,570)가 따먹열을 소개한 영어권 계정 게시물이다. 영어권 팬은 **줄거리 한 줄 요약**("Priest getting pinned down by the demon… blood pact")으로 들어온다.
+- → 해외용 **영어 로그라인을 공식이 먼저 뿌려야** 한다. samelovepic처럼 "I Had Seven Days Left. Then a Demon Came" 같은 웹소설식 부제가 잘 먹힌다.
+
+**⑥ 팬이 "제작자"를 응원하는 문화가 강하다.**
+- "AI로 5분이면… 진짜 힘든 거예요", "돈이 엄청 들어요, 하이프 3번씩 눌러줍시다", "제작자 분들 이름도 따로 적어주네, 김하랑 김규리", "롭스님 천재".
+- Brake ONE의 비하인드("찐 드라마 촬영팀st") 게시물이 X 최고 반응(3,798♥)이다.
+- → 메이킹·비하인드·제작진 크레딧은 부가 콘텐츠가 아니라 **팬덤을 묶는 장치**다. AI 작품이라 "사람이 갈아 넣었다"는 증거가 오히려 응원 동기가 된다.
+
+**⑦ 제목 리스크.**
+- 따먹열은 "소개할 때 제목도 같이 적어줍시다"라는 당부가 2,777♥를 받았다. 제목이 민망해 링크만 돌고 제목은 빠지는 현상이 있었다는 뜻이다.
+- 팬들은 알아서 줄임말을 만든다: "아오라"(OUT OF LINE), "따먹열", "브원", 커플명 "롬원", "뎀시온".
+- → 제목은 **소리 내 말하기 쉬운지, 줄임말이 자연스럽게 나오는지**까지 체크한다. 4-4 제목 체크리스트에 추가.
+
+**⑧ 팬이 다음 전개를 '주문'한다 = 떡밥이 먹히고 있다는 신호.**
+- "롬원동거 온다 반드시 온다", "능글거리는 서브공 나와서 로먼 질투하는 거 보고 싶다", "로먼이 짝사랑공이었으면", "저 인형 원이 어렸을 때 준 것 같음".
+- 실제로 Brake ONE은 열애설 기사로 질투 전개, 표적은 후작·발도르로 질투 유발 전개가 들어왔다. **팬이 원하는 제3자 질투 구도를 중반에 투입**하는 게 공통 패턴이다(2차 조사의 "제3자의 부재" 약점이 중반에 보완됨).
+
+### 6-3. 템플릿 수정 사항
+1. 회차마다 **클립용 장면 2~3개**(타임스탬프가 달릴 장면)와 **한 줄 대사 1개**를 비트시트에 명시.
+2. 스킨십 장면은 **관계가 뒤집히는 한 박자**와 세트로 설계.
+3. 유통은 **유튜브 공개판 / 확장판 / 번외편(AU·시즌 이벤트)** 3단.
+4. 얼굴: 흔하지 않은 얼굴, 수도 남자 골격 유지.
+5. 해외용 **영어 웹소설식 부제** 1줄을 1화와 함께 공개.
+6. 제목: 말하기 쉬움·줄임말 테스트 추가.
+7. 메이킹·비하인드·제작진 크레딧을 정기 콘텐츠로.
+8. 중반(4~6화)에 **제3자 질투 구도** 투입.
+
+---
+
 ## 참고 자료
 - Brake ONE: [YouTube](https://www.youtube.com/watch?v=FouReIwxnkU), [스페셜 메이킹](https://www.youtube.com/watch?v=DSHaz1bllWc), [iQIYI 작품 페이지](https://www.iq.com/album/brake-one-2026-1lzqp1bsg8x?lang=en_us), [X 반응](https://x.com/samelovepic/status/2098405049965891659)
 - OUT OF LINE: [CLIFF 작품 페이지](https://watchcliff.com/en/work/out-of-line), [CLIFF STUDIO YouTube](https://www.youtube.com/@watchcliff.official), [EP 영상](https://www.youtube.com/watch?v=_1KXNg7q5OI), [Bilibili](https://www.bilibili.com/video/BV1vc4w6eEqo/), [X 밤비엘](https://x.com/Bam__BL2/status/2117249190086734241)
@@ -287,3 +355,4 @@ AI 영상이 잘하는 것(분위기, 클로즈업, 비현실 비주얼)에 서�
 - 표적 MARK: [예고편](https://www.youtube.com/watch?v=T2Mxuv6tZ5A), [EP.01](https://www.youtube.com/watch?v=SFhQK4qavjI), [EP.02](https://www.youtube.com/watch?v=OnkiPVk27_0), [EP.03](https://www.youtube.com/watch?v=Y8I2ih6C-uA)
 - 작품 목록: [scenedia AI BL 전체 작품](https://scenedia.com/all)
 - 2차 조사: [Brake ONE EP.03 유튜브](https://www.youtube.com/watch?v=fjUxyOkP6UY), [Brake ONE 클립](https://www.youtube.com/watch?v=Tsf3XDVkXYg), [iQIYI wiki](https://www.iq.com/wiki/en_us/album/brake-one-2026-1lzqp1bsg8x), [DIRTY PLAY 채널](https://www.youtube.com/@dirtyplay_bl/videos), [rainmaker X](https://x.com/rainmakerth/status/2095028958115078413), [rainmaker 기사](https://www.rainmaker.in.th/ai-artist-brake-one-korean-bl-entertainment/), [OUT OF LINE 종말이 체질인 놈](https://www.youtube.com/watch?v=shfAdvSyu6M), [OUT OF LINE 유튜브](https://www.youtube.com/watch?v=mf4fRnJKajM), [밤비엘 X - Demon EP.01](https://x.com/Bam__BL2/status/2097995805118668980), [밤비엘 X - Demon EP.02](https://x.com/Bam__BL2/status/2097996672282554468), [Demon 쇼츠](https://www.youtube.com/shorts/VSdO0-gwuZY), [NOUB 영상 목록](https://www.youtube.com/@noub_bl/videos), [표적 EP.01](https://www.youtube.com/watch?v=rgOXRJtpWG0), [데일리안 기사](https://www.dailian.co.kr/news/view/1712820/), [MyDramaList AI BL 리스트](https://mydramalist.com/list/1gn9ADG4)
+- 3차 조사(원문): [OUT OF LINE EP.01](https://www.youtube.com/watch?v=KWEGt6pB8Dw), [OUT OF LINE EP.02](https://www.youtube.com/watch?v=mf4fRnJKajM), [CLIFF STUDIO 영상 목록](https://www.youtube.com/@watchcliff.official/videos), 표적 EP.01 원본(삭제됨, SFhQK4qavjI), 기존 OUT OF LINE 링크 _1KXNg7q5OI는 비공개 전환. 원문 발췌: `_raw/youtube_comments.md`, `_raw/x_posts.md`
